@@ -1,0 +1,13 @@
+*~
+.sw?
+.*.sw?
+.*.plt
+*.beam
+*.coverdata
+/.erlang.mk/
+/cover/
+/deps/
+/ebin/
+/logs/
+
+/feature_flags.d
